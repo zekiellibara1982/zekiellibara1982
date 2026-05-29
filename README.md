@@ -47,10 +47,10 @@ not just certifications, but actual detection, investigation, and response.
 
 <p align="center">
 
-[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia)](https://www.credly.com/earner/earned/badge/7d7ee403-d303-48e0-8dca-afa14f8aabd1)
-[![A+](https://img.shields.io/badge/CompTIA-A%2B-FF0000?style=for-the-badge&logo=comptia)](https://www.credly.com/earner/earned/badge/6004433c-c847-41ba-8e37-225cba8a0d65)
-[![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-006747?style=for-the-badge)](https://www.credly.com/earner/earned/badge/fad29483-c8b9-43a9-9db2-e5df64e37922)
-[![Google IT](https://img.shields.io/badge/Google-IT%20Support-4285F4?style=for-the-badge&logo=google)](https://www.credly.com/earner/earned/badge/9655c49e-b0a6-4d1c-8944-8cbebefa0eef)
+[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia)](https://www.credly.com/badges/7d7ee403-d303-48e0-8dca-afa14f8aabd1/public_url)
+[![A+](https://img.shields.io/badge/CompTIA-A%2B-FF0000?style=for-the-badge&logo=comptia)](https://www.credly.com/badges/6004433c-c847-41ba-8e37-225cba8a0d65/public_url)
+[![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-006747?style=for-the-badge)](https://www.credly.com/badges/fad29483-c8b9-43a9-9db2-e5df64e37922/public_url)
+[![Google IT](https://img.shields.io/badge/Google-IT%20Support-4285F4?style=for-the-badge&logo=google)](https://www.credly.com/badges/9655c49e-b0a6-4d1c-8944-8cbebefa0eef/public_url)
 ![CCNA](https://img.shields.io/badge/CCNA-In%20Progress-1BA0D7?style=for-the-badge&logo=cisco)
 
 </p>
